@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name Device)(type Legacy)(uri "C:/KiCad (new)/share/kicad/library/Device.lib")(options "")(descr ""))
+  (lib (name Memory_EPROM)(type Legacy)(uri "C:/KiCad (new)/share/kicad/library/Memory_EPROM.lib")(options "")(descr ""))
+  (lib (name Memory_Flash)(type Legacy)(uri "C:/KiCad (new)/share/kicad/library/Memory_Flash.lib")(options "")(descr ""))
+  (lib (name Memory_NVRAM)(type Legacy)(uri "C:/KiCad (new)/share/kicad/library/Memory_NVRAM.lib")(options "")(descr ""))
+  (lib (name Memory_ROM)(type Legacy)(uri "C:/KiCad (new)/share/kicad/library/Memory_ROM.lib")(options "")(descr ""))
+)
